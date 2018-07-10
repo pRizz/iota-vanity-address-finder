@@ -1,6 +1,6 @@
 {
   "name": "iota-vanity-address-finder",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Finds IOTA seeds that generate the desired addresses",
   "main": "index.js",
   "bin": "bin/cli.js",
