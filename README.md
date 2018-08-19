@@ -1,4 +1,7 @@
 # iota-vanity-address-finder
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/pRizz/iota-vanity-address-finder.svg)](https://greenkeeper.io/)
+
 Finds IOTA seeds that generate the desired addresses. Utilizes parallelism to find the seed as quickly as possible.
 
 ## Usage as Library
